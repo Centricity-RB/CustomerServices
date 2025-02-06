@@ -1,0 +1,13 @@
+{
+  "TwilioConfiguration": {
+    "AccountSid": "AC96774c9efbb156275576af816f504618",
+    "AuthToken": "043027d95717f0a27cf9e2c10cb33a9c",
+    "VerificationSid": "VAe897f88cc10f56e5862ca61ea652e421",
+    "TokenKey": "mBYiEzEcDFarlO_z8QwWH_n00-aSEn9pmlP1oR8z",
+    "ResentOTPTokenActivation": "60",
+    "ResendOTPMaxAttempts": "5",
+    "ResendOTPTokenExpiration": "10",
+    "FromMobileNumber": "+17272951635",
+    "SendGridClientKey": "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"
+  }
+}
